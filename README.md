@@ -10,4 +10,10 @@ This repository contains the files of the various tasks assigned by JPMorgan Cha
 
 ![](https://github.com/kritika-srivastava/JPMorgan-Chase-Virtual-Internship/blob/master/Console.gif)
 
-A detailed README to be updated soon. Stay Tuned :-)
+## TASK ACCOMPLISHED
+
+Development of an alternative way to visualize and analyze share price data for the traders.
+
+This will alert them of potential trading opportunities.The visualization of charts and data analysis the trader’s see is all built on JPMorgan Chase's own open sourced software called Perspective.
+
+I learnt how to implement this to facilitate the trader’s requested changes and deliver actionable insights.

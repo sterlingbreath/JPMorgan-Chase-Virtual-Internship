@@ -14,7 +14,7 @@ import subprocess
 import time
 import signal
 
-os.chdir(os.getcwd()+'/jpm_module_1')
+os.chdir(f'{os.getcwd()}/jpm_module_1')
 
 process = subprocess.Popen(['python', 'server3.py'], cwd=os.getcwd(), preexec_fn=os.setsid)
 
